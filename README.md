@@ -110,7 +110,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257" alt="BLOCN Exchange Footer" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/c0f9827a-b171-4e6a-a3c4-b278f626acfc" alt="BLOCN Exchange Footer" width="100%"/>
 </p>
 
 <p align="center">
