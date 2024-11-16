@@ -1,7 +1,7 @@
 # BLOCN Exchange Official
 
 <p align="center">
-  <img src="./assets/blocn-logo.png" alt="BLOCN Exchange Logo" width="200"/>![blocn](https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257)
+  <img src="https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257" alt="BLOCN Exchange Logo" width="200"/>![blocn](https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257)
 </p>
 
 <p align="center">
