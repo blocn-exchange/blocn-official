@@ -1,7 +1,7 @@
 # BLOCN Exchange Official
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257" alt="BLOCN Exchange Logo" width="200"/>![blocn](https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257)
+  <img src="https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257" alt="BLOCN Exchange Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ---
 
 <p align="center">
-  <img src="./assets/blocn-footer.png" alt="BLOCN Exchange Footer" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/92907e60-c0a9-4e44-b651-b489cb660257" alt="BLOCN Exchange Footer" width="100%"/>
 </p>
 
 <p align="center">
